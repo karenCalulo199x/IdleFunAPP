@@ -1,4 +1,4 @@
-package com.kcals.wotdapp.ui.theme
+package com.kcals.idlefunapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

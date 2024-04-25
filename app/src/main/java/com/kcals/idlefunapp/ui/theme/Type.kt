@@ -1,4 +1,4 @@
-package com.kcals.wotdapp.ui.theme
+package com.kcals.idlefunapp.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

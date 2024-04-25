@@ -1,4 +1,4 @@
-package com.kcals.wotdapp
+package com.kcals.idlefunapp
 
 import org.junit.Test
 
