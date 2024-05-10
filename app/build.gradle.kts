@@ -68,4 +68,5 @@ dependencies {
     implementation(libs.api.retrofit2)
     implementation(libs.api.retrofit2.converter)
     implementation(libs.kotlinx.couroutines)
+    implementation(libs.androidx.activity.compose.runtime.livedata)
 }
